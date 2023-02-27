@@ -48,7 +48,7 @@ Available in the "example-output" folder in the repository.
 # Special Note:
 I made an update to my old project, because today I looked at the code and saw how bad I had written it a few years ago, and it was giving me a headache.
 
-Original code from the previous commit came from ~ 2017.
+Original code from the second branch came from ~ 2017.
 
 # License
 
